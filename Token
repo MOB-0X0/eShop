@@ -1,0 +1,2 @@
+psycho@mob-ioi:~$ kubeadm token create --print-join-command
+kubeadm join 127.0.0.1:6443 --token 6rag8v.4b4l6w6h1q0fa466 --discovery-token-ca-cert-hash sha256:7f14a90a58ed797968b94acee0448e74e1006740bf2492436a067a942ef57b56
